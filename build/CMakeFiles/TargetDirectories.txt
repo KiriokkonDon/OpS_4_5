@@ -1,0 +1,4 @@
+C:/Users/Incognitus/Desktop/task454/build/CMakeFiles/test.dir
+C:/Users/Incognitus/Desktop/task454/build/CMakeFiles/general.dir
+C:/Users/Incognitus/Desktop/task454/build/CMakeFiles/edit_cache.dir
+C:/Users/Incognitus/Desktop/task454/build/CMakeFiles/rebuild_cache.dir
