@@ -9,11 +9,11 @@
 ## Linux
 Для запуска сервера на Linux выполните следующие шаги:
 1. Установите socat:
-`sudo apt install socat`
+```sudo apt install socat```
 2. Перед запуском скрипта дайте права на исполнение:
-`chmod +x socat.sh`
+```chmod +x socat.sh```
 3. Запустите скрипт:
-`./socat.sh`
+```./socat.sh```
 4. Запустите сервер:
-`./test.exe`
+```./test.exe```
 
