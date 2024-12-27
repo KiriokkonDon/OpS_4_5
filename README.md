@@ -1,24 +1,32 @@
 ## Генерация логов температуры.
 Для генерации логов температуры выполните следующую команду:
-`general.exe gener_t.py`
+`
+general.exe gener_t.py
+`
 
 # Запуск сервера
 ## Windows
 Для запуска сервера на Windows используйте:
 
-`test.exe`
+`
+test.exe
+`
 ## Linux
 Для запуска сервера на Linux выполните следующие шаги:
 1. Установите socat:
-```bash
-sudo apt install socat```
+`
+sudo apt install socat
+`
 3. Перед запуском скрипта дайте права на исполнение:
-```bash
-chmod +x socat.sh```
-4. Запустите скрипт:
-```bash
-./socat.sh```
+`
+chmod +x socat.sh
+`
+5. Запустите скрипт:
+`
+./socat.sh
+`
 5. Запустите сервер:
-```bash
-./test.exe```
+`
+./test.exe
+`
 
